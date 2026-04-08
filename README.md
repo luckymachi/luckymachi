@@ -1,4 +1,4 @@
-= ¡Hola! Soy Max 🍀
+# ¡Hola! Soy Max 🍀
 
 Cybersecurity specialist and software developer (Rust, Go, C). FOSS enthusiast.
 
